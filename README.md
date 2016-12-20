@@ -1,7 +1,5 @@
 
-Sense is now part of Marvel
+Sense2
 =====
 
-The development of Sense has moved into Elasticsearch Marvel, you can find it here: http://www.elasticsearch.org/overview/marvel/
-
-If you have any question or find an issue, feel free to post on the elasticsearch user group: http://groups.google.com/forum/#!forum/elasticsearch
+Forked from https://github.com/cheics/sense. Adding more useful features like Query tagging and search
